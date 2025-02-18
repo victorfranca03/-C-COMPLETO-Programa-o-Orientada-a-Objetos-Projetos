@@ -1,0 +1,14 @@
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\bin\Debug\net8.0\PrimeirApp.exe
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\bin\Debug\net8.0\PrimeirApp.deps.json
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\bin\Debug\net8.0\PrimeirApp.runtimeconfig.json
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\bin\Debug\net8.0\PrimeirApp.dll
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\bin\Debug\net8.0\PrimeirApp.pdb
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.AssemblyInfoInputs.cache
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.AssemblyInfo.cs
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.csproj.CoreCompileInputs.cache
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.dll
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\refint\PrimeirApp.dll
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.pdb
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\PrimeirApp.genruntimeconfig.cache
+C:\Dev\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeirApp\obj\Debug\net8.0\ref\PrimeirApp.dll
